@@ -1,0 +1,2 @@
+[Vertex 1: 80 25, Vertex 2: 20 25, Vertex 3: 180 25, Vertex 4: 50 75, Vertex 5: 150 75, Vertex 6: 120 25]
+[Edge: Vertex 1: 80 25, Vertex 2: 20 25, Edge: Vertex 6: 120 25, Vertex 3: 180 25]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph>
+    <vertex id="1" x="0" y="0"/>
+    <vertex id="2" x="0" y="0"/>
+    <vertex id="5" x="0" y="0"/>
+    <vertex id="4" x="0" y="0"/>
+    <vertex id="3" x="0" y="0"/>
+    <edge source="1" target="2"/>
+    <edge source="5" target="2"/>
+    <edge source="4" target="5"/>
+</graph>

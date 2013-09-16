@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph>
+    <vertex id="2" x="239" y="239"/>
+    <vertex id="3" x="11" y="13"/>
+    <edge source="2" target="3"/>
+</graph>

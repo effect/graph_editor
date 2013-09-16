@@ -1,0 +1,2 @@
+[Vertex 0: 0 0, Vertex 1: 1 1, Vertex 2: 2 2, Vertex 3: 3 3]
+[Edge: Vertex 0: 0 0, Vertex 1: 1 1, Edge: Vertex 2: 2 2, Vertex 1: 1 1, Edge: Vertex 0: 0 0, Vertex 2: 2 2]
